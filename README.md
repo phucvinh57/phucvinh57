@@ -1,18 +1,8 @@
-### My stats
 
-<div align="center">
- 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=phucvinh57&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>
+ <div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=phucvinh57&show_icons=true" />
+ </div>
 
-### Top used languages
-
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucvinh57)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>
 
 ### About me :v:
 - I'm a senior at [Ho Chi Minh University of Technology](https://hcmut.edu.vn/) and a software developer.
