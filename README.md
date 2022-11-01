@@ -1,5 +1,17 @@
+### My stats
+
 <div align="center">
- <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=phucvinh57&hide_border=true)](https://git.io/streak-stats"/>   
+ 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=phucvinh57&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</div>
+
+### Top used languages
+
+<div align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucvinh57)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 
 ### About me :v:
