@@ -10,7 +10,7 @@
 - Techs: feel free to learn new frameworks (I have used `tsed.io`, `Spring boot`, `MERN stack`, `Nestjs`).
 - Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite3`, `DynamoDB`. **Designing databases & working with DBMS are my strength**.
 - Languages: `C/C++`, `TypeScript`, `Javascript`, `Java`, `Rust`, `Python`. While using high-level languages for work, I use `C/C++` to play with the system as a hobby.
-- DevOps: `Docker`, `CI/CD (GitLab)`
+- DevOps: `Docker`, `CI/CD`, `LXC`
 ### Contact :mailbox_closed:
 - Email: npvinh0507@gmail.com
 - Phone: +84373395726
