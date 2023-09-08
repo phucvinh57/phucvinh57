@@ -1,13 +1,8 @@
  <div align=center>
 <!--   <h3>Profile summary</h3> -->
-  <img height=175 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucvinh57&theme=vue" />&nbsp&nbsp
-  <img height=175 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucvinh57&theme=vue" />
+  <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucvinh57&theme=vue" />&nbsp&nbsp
+  <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucvinh57&theme=vue" />
  </div>
-<!--   <div align=center>
-  <h3>Top languages</h3>
-  <img height=175 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucvinh57&theme=github" />
- </div> -->
-
 
 ### About me :v:
 - I'm a senior at [Ho Chi Minh University of Technology](https://hcmut.edu.vn/) and a software developer.
