@@ -3,10 +3,10 @@
  </div>
 
 ### About me :v:
-- I'm a senior at [Ho Chi Minh University of Technology](https://hcmut.edu.vn/) and a software developer.
-- Techs: feel free to learn new frameworks (I have used `Spring boot` and many JS libraries).
-- Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite3`, `DynamoDB`. **Designing databases & working with DBMS are my strength**.
-- Languages: `C/C++`, `TS/JS`, `Python`. While using high-level languages for work, I use `C/C++` to play with the system as a hobby.
+- I'm a software developer and trying to be a software engineer. I'm also an open-source lover.
+- Techs: `AWS`, `Fastify`, `Tauri`, `React`.
+- Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite3`, `DynamoDB`. **Designing databases, understanding & working with DBMS are my strength**.
+- Languages: ``Rust`, `C/C++`, `TypeScript/JavaScript`. Programming language is not problem with me.
 - DevOps: `Docker`, `CI/CD`, `LXC`
 ### Contact :mailbox_closed:
 - Email: npvinh0507@gmail.com
