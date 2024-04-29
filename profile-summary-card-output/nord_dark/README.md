@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/phucvinh57/phucvinh57/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
+```
+
+    
