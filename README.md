@@ -5,9 +5,9 @@
 ### About me :v:
 - I'm a software developer and trying to be a software engineer. I'm also an open-source lover.
 - Techs: `AWS`, `Fastify`, `Tauri`, `React`.
-- Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite3`, `DynamoDB`. **Designing databases, understanding & working with DBMS are my strength**.
-- Languages: `Rust`, `C/C++`, `TypeScript/JavaScript`. Programming language is not problem with me.
-- DevOps: `Docker`, `CI/CD`, `LXC`
+- Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `DynamoDB`. **Designing databases, understanding & working with DBMS are my strength**.
+- Languages: `Rust`, `C/C++`, `JS/TS`, `Go`.
+- DevOps: `Docker`, `CI/CD`, `K8s`.
 ### Contact :mailbox_closed:
 - Email: npvinh0507@gmail.com
 - Phone: +84373395726
