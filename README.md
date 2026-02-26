@@ -4,7 +4,7 @@
 
 ### About me
 
-More than an engineer.
+Looking for a leverage.
 
 ### Contact :mailbox_closed:
 - Email: npvinh0507@gmail.com
